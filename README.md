@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Sakshi  
 
-<!--
-**Sakshipriya05/sakshipriya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=sakshipriya05&color=blue)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+Developer&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 BTech CSE (Data Science)
+- 📊 Aspiring Data Analyst  
+- 💡 Working on Depression Prediction Project
+- 🌱 Currently learning **Machine Learning  
+- 🎯 Goal: Become Data Analyst
+
+---
+
+## 🛠️ Skills & Tools
+💻 Languages: Python | SQL | C | Java (Basic)  
+📊 Data Analysis: Pandas | NumPy | Excel  
+📈 Visualization: Tableau | Matplotlib | Seaborn  
+🤖 ML: Scikit-learn  
+🛠️ Tools: VS Code | Jupyter Notebook | Git 
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Depression Prediction using ML
+- Predicts student mental health condition
+- Built using Random Forest
+- Includes Streamlit UI
+
+### 🔹 University Management System
+- Python-based system using OOP concepts
+
+### 🔹 Covid-19 Dashboard
+- Built in Tableau with interactive visuals
+
+---
+
+## 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,java,c,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: www.linkedin.com/in/sakshi-priya-3a33aa338
+- 📧 Email: sakshipriya14508@gmail.com
+
+---
+
+⭐ *“Turning Data into Insights”*
