@@ -1,8 +1,9 @@
 # Hi 👋, I'm Sakshi  
 
+![Profile Views](https://komarev.com/ghpvc/?username=sakshipriya05&label=Visitors&color=blue&style=flat)
+
 ![snake gif](https://github.com/Sakshipriya05/Sakshipriya05/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sakshipriya05&color=blue)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Java+Developer&center=true&width=500&height=50">
