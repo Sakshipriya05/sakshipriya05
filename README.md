@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sakshi%20Priya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # Hi 👋, I'm Sakshi  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sakshipriya05&label=Visitors&color=blue&style=flat)
