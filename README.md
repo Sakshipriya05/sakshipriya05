@@ -1,5 +1,7 @@
 # Hi 👋, I'm Sakshi  
 
+![snake gif](https://github.com/Sakshipriya05/Sakshipriya05/blob/output/github-contribution-grid-snake-dark.svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sakshipriya05&color=blue)
 
 <p align="center">
