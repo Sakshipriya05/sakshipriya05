@@ -75,8 +75,15 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: www.linkedin.com/in/sakshi-priya-3a33aa338
-- 📧 Email: sakshipriya14508@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-priya-3a33aa338">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sakshipriya14508@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
