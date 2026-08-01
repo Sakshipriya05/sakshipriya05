@@ -62,6 +62,13 @@
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshipriya05&theme=react-dark" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/sakshi-priya-3a33aa338
 - 📧 Email: sakshipriya14508@gmail.com
