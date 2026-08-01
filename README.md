@@ -49,6 +49,7 @@
 ---
 
 ## 🛠️ Skills
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,sql,java,c,github,vscode" />
 </p>
@@ -65,6 +66,7 @@
 ---
 
 ## 🔥 Streak Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sakshipriya05&theme=radical" />
 </p>
@@ -72,6 +74,7 @@
 ---
 
 ## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshipriya05&theme=react-dark" />
 </p>
