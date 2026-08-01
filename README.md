@@ -89,6 +89,5 @@
 
 ---
 
-⭐ *“Turning Data into Insights”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&text=✨%20Turning%20Data%20into%20Insights%20✨&fontSize=22&fontColor=ffffff&animation=twinkling"/>
