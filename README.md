@@ -31,25 +31,12 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Depression Prediction using ML
-- Predicts student mental health condition
-- Built using Random Forest
-- Includes Streamlit UI
-
-### 🔹 University Management System
-- Python-based system using OOP concepts
-
-### 🔹 Covid-19 Dashboard
-- Built in Tableau with interactive visuals
-
-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 💡 Depression Prediction using ML
 🔹 Predicts student mental health condition  
 🔹 Built with Random Forest  
-🔹 Includes Streamlit UI  
+🔹 Includes Streamlit UI 
 
 ### 🏫 University Management System
 🔹 Python-based system  
@@ -57,7 +44,7 @@
 
 ### 🦠 Covid-19 Dashboard
 🔹 Built using Tableau  
-🔹 Interactive visualizations  
+🔹 Interactive visualizations
 
 ---
 
