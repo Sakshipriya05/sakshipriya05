@@ -11,8 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Java+Developer&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">🚀 Passionate Developer | 💻 Tech Enthusiast | 🌱 Learning Everyday</h3>
-
 ---
 
 ## 🚀 About Me
@@ -45,6 +43,21 @@
 
 ### 🔹 Covid-19 Dashboard
 - Built in Tableau with interactive visuals
+
+- ## 🚀 Featured Projects
+
+### 💡 Depression Prediction using ML
+🔹 Predicts student mental health condition  
+🔹 Built with Random Forest  
+🔹 Includes Streamlit UI  
+
+### 🏫 University Management System
+🔹 Python-based system  
+🔹 Uses OOP concepts  
+
+### 🦠 Covid-19 Dashboard
+🔹 Built using Tableau  
+🔹 Interactive visualizations  
 
 ---
 
