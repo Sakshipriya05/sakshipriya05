@@ -11,6 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Java+Developer&center=true&width=500&height=50">
 </p>
 
+<h3 align="center">🚀 Passionate Developer | 💻 Tech Enthusiast | 🌱 Learning Everyday</h3>
+
 ---
 
 ## 🚀 About Me
